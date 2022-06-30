@@ -1,6 +1,6 @@
 <html style="background-color:#ebebe0;">
 <body style="background-color:#ebebe0;">
-  <h2 style="text-align:center;">Shlomo-Alexander Perlov Portofolio</h2>
+  <h2 style="text-align:center;">tecsun r-9700x operating manual</h2>
   <fieldset style="border-radius:0.5em;">
     <legend style="background-color: darkolivegreen;color: white;padding: 3px 10px 3px 10px;border-radius:0.3em;"
             >2014-2016</legend>

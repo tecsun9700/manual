@@ -4,7 +4,7 @@
   <fieldset style="border-radius:0.5em;">
     <legend style="background-color: darkolivegreen;color: white;padding: 3px 10px 3px 10px;border-radius:0.3em;"
             >Tecsun R-9700DX on amazon,com (power Unit for 110V)</legend>
-    <li><a href="public/fver/a18h.html">just CSS: vertical navbar</a></li>
+    <li><a href="https://www.aliexpress.com/item/32904491419.html?spm=a2g0o.detail.1000014.3.7dc264e9INRkrO&gps-id=pcDetailBottomMoreOtherSeller&scm=1007.40000.267768.0&scm_id=1007.40000.267768.0&scm-url=1007.40000.267768.0&pvid=cbc32425-fbf2-4d82-9a1d-ea5623d3d72f&_t=gps-id:pcDetailBottomMoreOtherSeller,scm-url:1007.40000.267768.0,pvid:cbc32425-fbf2-4d82-9a1d-ea5623d3d72f,tpp_buckets:668%232846%238115%23823&pdp_ext_f=%7B%22sku_id%22%3A%2265833801169%22%2C%22sceneId%22%3A%2230050%22%7D&pdp_npi=2%40dis%21USD%21%21199.5%21%21%21%21%21%4021032fa316572933864007147ea029%2165833801169%21rec">tecsun pl-880 aliexpress</a></li>
     <li><a href="public/coupons/carousel10.html">Bootstrap & JQM: coupons</a></li>
     <li><a href="public/lotto/lottoexh.html">SPA with JQM: lotto</a></li>
     <li><a href="public/converter/converh.html">SPA with JQM: converter</a></li>

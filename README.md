@@ -15,8 +15,8 @@
         sangean ATS-909X2  pro  receiver aliexpress</a>
     </li>
      <li>
-      <a href="https://www.aliexpress.com/item/1005003457274498.html?spm=a2g0o.productlist.0.0.57914461TL1KbA&algo_pvid=287272c3-b5ed-4d48-a523-1cff77cbf859&algo_exp_id=287272c3-b5ed-4d48-a523-1cff77cbf859-15&pdp_ext_f=%7B%22sku_id%22%3A%2212000025874324350%22%7D&pdp_npi=2%40dis%21ILS%21%211065.24%21%21%21%21%21%402100bde116580301050653600ec84b%2112000025874324350%21sea">
-        tecsun pl-990x  pro  receiver aliexpress</a>
+      <a href="https://www.anon-co.com/product/tecsun-pl990x-radio">
+        tecsun pl-990x  pro  receiver at anon co</a>
     </li>
     
   </fieldset>

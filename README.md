@@ -32,7 +32,7 @@
  </fieldset>
  <fieldset style="border-radius:0.5em;">
      <legend style="background-color: darkolivegreen;color: white;padding: 3px 10px 3px 10px;border-radius:0.3em;"
-              >tecsun r-9700 manual</legend>
+              >Manual</legend>
       <li><a href="https://tecsun9700.github.io/danilec/"> Bootstrap5 danilec</a>
       </li>
   </fieldset>

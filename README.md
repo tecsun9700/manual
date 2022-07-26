@@ -24,7 +24,7 @@
   <fieldset style="border-radius:0.5em;">
    <legend style="background-color: darkolivegreen;color: white;padding: 3px 10px 3px 10px;border-radius:0.3em;"
             >Review</legend>
-    <li><a href="https://www.amazon.com/gp/customer-reviews/R2DI6JCLRJ1B6W/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B001P4LTAU">TECSUN R-9700DX at amazon.com</a>
+    <li><a href="https://www.amazon.com/gp/customer-reviews/R2DI6JCLRJ1B6W/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B001P4LTAU">Tecsun R-9700DX at amazon.com</a>
     </li>
     <li>
       <a href="https://perlov3301.github.io/reactlocations/"> SPA with Reactjs & ReactNative & ReactGoogleMap & PouchDB</a>

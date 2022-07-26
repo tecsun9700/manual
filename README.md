@@ -5,19 +5,19 @@
     <legend style="background-color: darkolivegreen;color: white;padding: 3px 10px 3px 10px;border-radius:0.3em;"
             >shortwave exelent radios</legend>
       <li><a href="https://www.anon-co.com/product/tecsun-radio-r9700dx">
-        tecsun r-9700dx m-budget analog shortwave receiver at anon co</a>
+        tecsun r-9700dx m-budget analog receiver at anon-co</a>
     </li>
     <li>
       <a href="https://www.anon-co.com/product/tecsun-pl660-ssb-radio">
-        tecsun pl-660</a>
+        tecsun pl-660 good receiver at anon-co</a>
     </li>
     <li>
       <a href="https://www.aliexpress.com/item/1005002488981122.html?spm=a2g0o.productlist.0.0.63d023353WYhlk&ad_pvid=202207080832452501833254117640002599576_3&s=p">
-        sangean ATS-909X2 receiver aliexpress</a>
+        sangean ATS-909X2 exelent receiver at aliexpress</a>
     </li>
      <li>
       <a href="https://www.anon-co.com/product/tecsun-pl990x-radio">
-        tecsun pl-990x exelent receiver at anon co</a>
+        tecsun pl-990x exelent receiver at anon-co</a>
     </li>
     
   </fieldset>

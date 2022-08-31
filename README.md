@@ -12,8 +12,8 @@
         tecsun pl-660 good receiver at anon-co</a>
     </li>
     <li>
-      <a href="https://www.aliexpress.com/item/1005002488981122.html?spm=a2g0o.productlist.0.0.63d023353WYhlk&ad_pvid=202207080832452501833254117640002599576_3&s=p">
-        sangean ATS-909X2 exelent receiver at amazon</a>
+      <a href="https://www.anon-co.com/product/tecsun-s8800-radio">
+        exelent receiver tecsun s-8800 at anon-co</a>
     </li>
      <li>
       <a href="https://www.anon-co.com/product/tecsun-pl990x-radio">
